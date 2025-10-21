@@ -164,3 +164,8 @@ storage/
 
 # UV package manager
 uv.lock
+
+# Local development files (not for public repo)
+.github/
+proxy_refactored.py
+requirements.txt
