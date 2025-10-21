@@ -1,4 +1,4 @@
-# Coprox app
+# CopilotRelay app
 
 ## Run the app
 
